@@ -1,0 +1,19 @@
+{
+  "welcome": {
+    "header": "Welcome to Connective Learning",
+    "info1": "With this tools, you can quickly search any scene on the video",
+    "info2": "For more information, please visit FAQ page >",
+    "info3": "Find a bug? Please Report it on feedback page >",
+    "footer": "Thank you for your contribution",
+    "continue": "continue"
+  },
+  "button":{
+    "login": "login"
+  },
+  "faq": {
+    "header": "FAQ",
+    "info1": "How to use? Ans. Like youtube"
+  },
+  "search":"search"
+
+}

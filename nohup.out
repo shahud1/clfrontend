@@ -1,0 +1,550 @@
+
+> connective-learning@1.0.0 start /home/connective_learning/front-end
+> nuxt start
+
+sh: nuxt: command not found
+npm ERR! file sh
+npm ERR! code ELIFECYCLE
+npm ERR! errno ENOENT
+npm ERR! syscall spawn
+npm ERR! connective-learning@1.0.0 start: `nuxt start`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the connective-learning@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2019-09-22T04_46_33_766Z-debug.log
+
+> connective-learning@1.0.0 start /home/connective_learning/front-end
+> nuxt start
+
+ℹ Listening on: http://194.31.53.161:8000/
+
+> connective-learning@1.0.0 start /home/connective_learning/front-end
+> nuxt start
+
+
+ WARN  devModules has been renamed to buildModules and will be removed in Nuxt 3.
+
+ℹ Listening on: http://194.31.53.161:8000/
+
+ ERROR  [HPM] Error occurred while trying to proxy request /en/search?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=s from www.babyai.org:8000 to http://localhost:3213 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request / from www.babyai.org:8000 to http://localhost:3213 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request  from www.babyai.org:8000 to http://localhost:3213 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request  from www.babyai.org:8000 to http://localhost:3213 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /en/search?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video/youtube/check from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video/youtube/check from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /user/currentVideoId from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request  from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video/youtube from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video/youtube/check from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video/youtube/check from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+[]
+[]
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from localhost:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  Request failed with status code 504
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at IncomingMessage.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at IncomingMessage.emit (events.js:203:15)
+  at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+  at endReadableNT (_stream_readable.js:1143:12)
+  at process._tickCallback (internal/process/next_tick.js:63:19)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from localhost:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[] [32m'(repeated 1 times)'[39m
+[]
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from localhost:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from localhost:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors) (repeated 1 times)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[] [32m'(repeated 1 times)'[39m
+
+ WARN  VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/data_en.json from localhost:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  Request failed with status code 504
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at IncomingMessage.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at IncomingMessage.emit (events.js:203:15)
+  at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+  at endReadableNT (_stream_readable.js:1143:12)
+  at process._tickCallback (internal/process/next_tick.js:63:19)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/en.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/data_en.json from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /hls/10004/video,720p.mp4,.urlset/master.m3u8 from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/en.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/ja.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/th.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10004/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/data_en.json from localhost:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  Request failed with status code 504
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at IncomingMessage.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at IncomingMessage.emit (events.js:203:15)
+  at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+  at endReadableNT (_stream_readable.js:1143:12)
+  at process._tickCallback (internal/process/next_tick.js:63:19)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/en.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/data_en.json from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /hls/10005/video,720p.mp4,.urlset/master.m3u8 from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/en.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/ja.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/th.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/data_en.json from localhost:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  Request failed with status code 504
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at IncomingMessage.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at IncomingMessage.emit (events.js:203:15)
+  at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+  at endReadableNT (_stream_readable.js:1143:12)
+  at process._tickCallback (internal/process/next_tick.js:63:19)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/en.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/sprite.jpg from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/data_en.json from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /hls/10005/video,720p.mp4,.urlset/master.m3u8 from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/ja.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/en.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /videos/10005/th.vtt from www.babyai.org:8000 to http://localhost:8080 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /user/currentVideoId from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /user/currentVideoId from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /video from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signout from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors) (repeated 1 times)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from www.babyai.org:8000 to http://localhost:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+[]
+
+ ERROR  socket hang up
+
+  at createHangUpError (_http_client.js:323:15)
+  at Socket.socketOnEnd (_http_client.js:426:23)
+  at Socket.emit (events.js:203:15)
+  at Socket.EventEmitter.emit (domain.js:448:20)
+  at endReadableNT (_stream_readable.js:1143:12)
+  at process._tickCallback (internal/process/next_tick.js:63:19)
+
+[]
+
+ ERROR  socket hang up
+
+  at createHangUpError (_http_client.js:323:15)
+  at Socket.socketOnEnd (_http_client.js:426:23)
+  at Socket.emit (events.js:203:15)
+  at Socket.EventEmitter.emit (domain.js:448:20)
+  at endReadableNT (_stream_readable.js:1143:12)
+  at process._tickCallback (internal/process/next_tick.js:63:19)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors) (repeated 1 times)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=m from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=ma from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=mac from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=mach from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=machin from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=machinr from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=machin from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=machine from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /en/search?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=h from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=he from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=h from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=he from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=h from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=h from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors) (repeated 1 times)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=hel from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=hell from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=hello from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /en/search?q=null from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /suggest?q=h from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request  from www.babyai.org:8000 to http://localhost:3213 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from www.babyai.org:8000 to http://localhost:3212 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+[]
+
+> connective-learning@1.0.0 start /home/users/v-virach_labo/front-end
+> nuxt start
+
+ℹ Listening on: http://172.88.88.103:6666/cl/
+
+ WARN  VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead
+
+
+ ERROR  Request failed with status code 404
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at Unzip.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at Unzip.emit (events.js:333:22)
+  at Unzip.EventEmitter.emit (domain.js:485:12)
+  at endReadableNT (_stream_readable.js:1201:12)
+  at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+
+ ERROR  Request failed with status code 404
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at Unzip.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at Unzip.emit (events.js:333:22)
+  at Unzip.EventEmitter.emit (domain.js:485:12)
+  at endReadableNT (_stream_readable.js:1201:12)
+  at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+
+> connective-learning@1.0.0 start /home/users/v-virach_labo/front-end
+> nuxt start
+
+
+ FATAL  Address 0.0.0.0:6666 is already in use.
+
+  at Server.setupListenHandle [as _listen2] (net.js:1309:16)
+  at listenInCluster (net.js:1357:12)
+  at doListen (net.js:1496:7)
+  at processTicksAndRejections (internal/process/task_queues.js:85:21)
+
+
+   ╭──────────────────────────────────────────────────────╮
+   │                                                      │
+   │   ✖ Nuxt Fatal Error                                 │
+   │                                                      │
+   │   Error: Address `0.0.0.0:6666` is already in use.   │
+   │                                                      │
+   ╰──────────────────────────────────────────────────────╯
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! connective-learning@1.0.0 start: `nuxt start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the connective-learning@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/users/v-virach_labo/.npm/_logs/2020-03-14T08_07_04_599Z-debug.log
+
+> connective-learning@1.0.0 start /home/users/v-virach_labo/front-end
+> nuxt start
+
+ℹ Listening on: http://172.88.88.103:6666/cl/
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+[]
+[]
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signout from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors) (repeated 5 times)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signup from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signout from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /auth/signin from 127.0.0.1:6666 to http://127.0.0.1:3212 (ECONNREFUSED) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+[]
+[]
+
+ WARN  VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead
+
+
+ ERROR  Request failed with status code 404
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at Unzip.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at Unzip.emit (events.js:333:22)
+  at Unzip.EventEmitter.emit (domain.js:485:12)
+  at endReadableNT (_stream_readable.js:1201:12)
+  at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+
+ ERROR  Request failed with status code 404
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at Unzip.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at Unzip.emit (events.js:333:22)
+  at Unzip.EventEmitter.emit (domain.js:485:12)
+  at endReadableNT (_stream_readable.js:1201:12)
+  at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+
+ ERROR  Request failed with status code 404
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at Unzip.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at Unzip.emit (events.js:333:22)
+  at Unzip.EventEmitter.emit (domain.js:485:12)
+  at endReadableNT (_stream_readable.js:1201:12)
+  at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+
+ ERROR  Request failed with status code 404
+
+  at createError (node_modules/axios/lib/core/createError.js:16:15)
+  at settle (node_modules/axios/lib/core/settle.js:17:12)
+  at Unzip.handleStreamEnd (node_modules/axios/lib/adapters/http.js:237:11)
+  at Unzip.emit (events.js:333:22)
+  at Unzip.EventEmitter.emit (domain.js:485:12)
+  at endReadableNT (_stream_readable.js:1201:12)
+  at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
